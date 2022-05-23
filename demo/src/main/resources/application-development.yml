@@ -1,0 +1,9 @@
+server:
+  port: 8081
+spring:
+  jdbc:
+    url:
+    username:
+    password:
+    pool:
+      enabled: true
