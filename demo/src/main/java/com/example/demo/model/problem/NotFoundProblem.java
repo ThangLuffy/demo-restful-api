@@ -1,5 +1,6 @@
 package com.example.demo.model.problem;
 
+import com.example.demo.model.problem.common.AbstractProblem;
 import org.zalando.problem.Status;
 
 import java.util.Map;
